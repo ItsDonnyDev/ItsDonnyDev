@@ -33,7 +33,7 @@
                     
 <h2 align="center">Socials</h2>
                   
-<p align="center"> <a href="https://discord.com/users/124034464627032066" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SteChron" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://discord.com/users/124034464627032066" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ItsDonnyDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 <h2 align="center">Support Me</h2>
 
@@ -41,4 +41,4 @@
 
 <h2 align="center">My GitHub Stats</h2>
 
-<p align="center"><a href="http://www.github.com/SteChron"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SteChron&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+<p align="center"><a href="http://www.github.com/SteChron"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDonnyDev&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
