@@ -6,11 +6,11 @@
   
   🌍  I'm based in Cyprus
     
-  ✉️  You can contact me at [stechron@hotmail.com](mailto:stechron@hotmail.com)
+  ✉️  You can contact me at [stechron@outlook.com](mailto:stechron@outlook.com)
   
-  🚀  I'm currently working on [zarpgaming.com](http://zarpgaming.com)
+  🚀  Community Manager & Developer @ [zarpgaming.com](http://zarpgaming.com)
   
-  🧠  I'm learning PHP, HTML, CSS and Javascript
+  🧠  I'm learning PHP, Javascript and Python
 </h6>
 
 <h2 align="center">Skills</h2>
