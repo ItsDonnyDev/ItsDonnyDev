@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/SteChron/SteChron/master/header.svg" alt="Hello, I am Donny" />
+  <img src="https://raw.githubusercontent.com/ItsDonnyDev/ItsDonnyDev/master/header.svg" alt="DONNY" />
 </h1>
 <br>
 <p align="center">
